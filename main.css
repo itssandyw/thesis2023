@@ -580,9 +580,28 @@ img{
 	padding-top: 10%;
 	margin-left: 5%;
 }
+#section12 h2{
+	font-family: Noto Serif Display, serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 30px;
+	text-align: right;
+	color: #e0d4cb;
+	padding-top: 10%;
+	margin-right: 5%;
+}
+#section12 h2:hover{
+	font-family: Noto Serif Display, serif;
+	font-style: italic;
+	font-weight: 500;
+	font-size: 30px;
+	text-align: right;
+	color: #e0d4cb;
+	padding-top: 10%;
+	margin-right: 5%;
+}
 *{
 	box-sizing: border-box;
-	text-transform: capitalize;
 	font-family: Roboto, sans-serif;
 	font-style: normal;
 	font-weight: 300;
